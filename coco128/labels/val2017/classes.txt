@@ -1,0 +1,8 @@
+hero
+soldier
+Buff
+grass
+wild_monster
+dragon
+tower
+crystal

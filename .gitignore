@@ -24,7 +24,7 @@
 !cfg/yolov3*.cfg
 
 storage.googleapis.com
-runs/*
+#runs/*
 data/*
 !data/images/zidane.jpg
 !data/images/bus.jpg
@@ -42,7 +42,7 @@ gcp_test*.sh
 
 # Datasets -------------------------------------------------------------------------------------------------------------
 coco/
-coco128/
+#coco128/
 VOC/
 
 # MATLAB GitIgnore -----------------------------------------------------------------------------------------------------
